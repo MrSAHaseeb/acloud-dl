@@ -62,7 +62,7 @@ You can download the latest version of acloud-dl by cloning the GitHub repositor
 ## ***Usage***
 
 ***Steps before running acloud-dl.py which will list down courses you started***
- - Login to your acloud.guru account via browser.
+ - Login to your acloud.guru account via Firefox browser.
  - Click on **Browse Courses**.
  - Move mouse to the course you want to download.
  - On mouseover you will see a button "GET" click on that.
