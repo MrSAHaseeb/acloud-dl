@@ -24,7 +24,7 @@
 
 ## ***Extracting Cookies***
 
- - Login to your acloud.guru account via browser.
+ - Login to your acloud.guru account via Firefox browser.
  - Once you are logged in right click on page the search for option called **Inspect Element** and click on that.
  - Under that look for **Network Tab** and click on that. Under that **Network Tab** click on Requests type **XHR** .
  - Now click on **Browse Courses** in the acloud.guru navbar and refresh the page you will see some requests under **Network Tab**.
